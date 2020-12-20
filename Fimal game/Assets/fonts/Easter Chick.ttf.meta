@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3457782f07b9fa7429af1265696fe669
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Easter Chick
+  fontNames:
+  - Easter Chick
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 200142b2354b56b489432f38830ec609, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
