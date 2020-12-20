@@ -28,5 +28,6 @@ https://assetstore.unity.com/packages/3d/vehicles/space/federation-corvette-f3-7
 
 sound:
 is from Unti 3 asset Folder.
-
+https://assetstore.unity.com/packages/templates/tutorials/create-with-code-prototype-3-run-and-jump-146039
+power up sound are from the PowerUp particles asset listed above
 
